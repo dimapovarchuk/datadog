@@ -39,7 +39,24 @@
 <img width="830" alt="image" src="https://user-images.githubusercontent.com/52627259/231234557-2ee5989a-f7dd-4e54-8ed2-2a42d3e6cd59.png">
 <img width="832" alt="image" src="https://user-images.githubusercontent.com/52627259/231234638-0afb1638-2242-416d-94db-5998f4aaaa18.png">
 
-## Datadog terraform file
+## Datadog terraform file for monitor
+<img width="908" alt="image" src="https://user-images.githubusercontent.com/52627259/231235025-6338f0b4-e67c-4ab8-9323-85a013bc1a5f.png">
+
+## Jenkins pipeline for apply monitor
+<img width="887" alt="image" src="https://user-images.githubusercontent.com/52627259/231235275-c01f5b08-24dc-4170-85b1-679231e080b0.png">
+<img width="891" alt="image" src="https://user-images.githubusercontent.com/52627259/231235403-b9f2e29c-c5a4-4ba8-9b1f-dd0a618050bd.png">
+<img width="892" alt="image" src="https://user-images.githubusercontent.com/52627259/231235520-7fcc6089-6d23-4352-8543-10c516f434c4.png">
+<img width="671" alt="image" src="https://user-images.githubusercontent.com/52627259/231235643-53ab595b-6aba-4065-b95d-e9c1dd8ca069.png">
+
+## Jenkins pipeline for destroy monitor
+<img width="887" alt="image" src="https://user-images.githubusercontent.com/52627259/231235828-c2c921e6-f963-4845-b0a4-82e28576f450.png">
+<img width="895" alt="image" src="https://user-images.githubusercontent.com/52627259/231235897-35175034-7c93-4c6b-b702-775633f45bf9.png">
+<img width="895" alt="image" src="https://user-images.githubusercontent.com/52627259/231235962-2518aa83-82ca-4d20-9e13-48de06889314.png">
+<img width="887" alt="image" src="https://user-images.githubusercontent.com/52627259/231236041-3b902f4b-7af9-4322-9ee2-1b87c5ab9e8a.png">
+
+
+
+
 
 
 
