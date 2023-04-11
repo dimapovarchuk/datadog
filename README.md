@@ -54,6 +54,13 @@
 <img width="895" alt="image" src="https://user-images.githubusercontent.com/52627259/231235962-2518aa83-82ca-4d20-9e13-48de06889314.png">
 <img width="887" alt="image" src="https://user-images.githubusercontent.com/52627259/231236041-3b902f4b-7af9-4322-9ee2-1b87c5ab9e8a.png">
 
+## EC instances 
+<img width="943" alt="image" src="https://user-images.githubusercontent.com/52627259/231236409-654a1866-2706-4c90-9bc9-fead462f1b13.png">
+
+## Datadog example metrics
+<img width="812" alt="image" src="https://user-images.githubusercontent.com/52627259/231236822-4b4d7b87-bf6f-44fa-82ef-90559375533f.png">
+<img width="802" alt="image" src="https://user-images.githubusercontent.com/52627259/231236869-c111eadd-9a95-4373-a0ec-e35231ea752e.png">
+
 
 
 
